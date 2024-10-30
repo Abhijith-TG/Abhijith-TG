@@ -1,14 +1,22 @@
 # Hey there, I'm Abhijith TG! 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=1000&color=3AF73C&background=000000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Frontend+Enthusiast;React+Native+Lover;Always+Learning)](https://git.io/typing-svg)
-
 ---
 
 ### 🚀 **Full Stack Developer | Tech Enthusiast | Problem Solver**
 
-💡 I'm passionate about building web and mobile applications with clean, user-friendly interfaces and solving challenging coding problems. Currently, I'm exploring backend technologies to enhance my skills as a full-stack developer.
+💡 I'm passionate about building web and mobile applications with clean, user-friendly interfaces and solving challenging coding problems. Currently, I'm exploring backend technologies to enhance my skills as a full-stack developer. A long Journey is ahead of me i need to master a lot of technologies...
 
 ---
+
+### 📈 **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhijith-TG&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijith-TG&layout=compact&theme=radical" alt="Top Languages">
+</p>
+
+---
+
 
 ### 🛠️ **Technologies & Tools I Work With**
 
@@ -28,14 +36,7 @@
 
 ---
 
-### 📈 **GitHub Stats**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhijith-TG&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijith-TG&layout=compact&theme=radical" alt="Top Languages">
-</p>
-
----
 
 ### 🌟 **Skills**
 
