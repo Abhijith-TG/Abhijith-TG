@@ -1,85 +1,98 @@
-# Hey there, I'm Abhijith TG! 👋
+# Hi, I'm Abhijith T G 👋
+
+## Full Stack Developer | React & Next.js Developer
+
+I'm a full stack developer focused on building scalable and responsive web applications using modern JavaScript technologies. I have hands-on experience working on production-level applications including SaaS platforms, business management systems, payment integrations, and real estate applications.
+
+Currently focused on improving my skills in frontend architecture, backend systems, APIs, databases, and scalable application development.
 
 ---
 
-### 🚀 **Full Stack Developer | Tech Enthusiast | Problem Solver**
+## 🚀 Tech Stack
 
-💡 I'm passionate about building web and mobile applications with clean, user-friendly interfaces and solving challenging coding problems. Currently, I'm exploring backend technologies to enhance my skills as a full-stack developer. A long Journey is ahead of me i need to master a lot of technologies...
+### Frontend
+- React.js
+- Next.js
+- JavaScript
+- TypeScript
+- HTML5
+- CSS3
+- Tailwind CSS
+- Bootstrap
+
+### Backend
+- Node.js
+- Express.js
+- GraphQL
+- REST APIs
+
+### Databases
+- PostgreSQL
+- MongoDB
+- MySQL
+- Prisma ORM
+
+### Tools & Platforms
+- Git
+- GitHub
+- Firebase
+- Stripe API
+- Strapi CMS
 
 ---
 
-### 📈 **GitHub Stats**
+## 💼 Experience
+
+### Software Developer — Signiteq Services Private Limited
+**Dec 2024 – Apr 2026**
+
+Worked on multiple full stack web applications using React.js, Next.js, Node.js, PostgreSQL, MongoDB, and Prisma.
+
+### Projects Worked On
+- **EGMS** — Multi-tenant SaaS Garage Management Platform
+- **Vamsam** — Family Tree Collaboration Platform
+- **CPOS** — Card Swipe Machine Selling Portal with Stripe Integration
+- **Real Estate Applications** — Frontend and backend development for listing systems
+
+---
+
+## 📌 Featured Skills
+
+- Responsive UI Development
+- Frontend Architecture
+- API Integration
+- Authentication & Authorization
+- Database Design
+- REST API Development
+- Payment Gateway Integration
+- Full Stack Web Development
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhijith-TG&show_icons=true&theme=radical&cache_seconds=900" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijith-TG&layout=compact&theme=radical&cache_seconds=900" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhijith-TG&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
 
-
----
-
-
-### 🛠️ **Technologies & Tools I Work With**
-
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijith-TG&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
 ---
 
-
-
-### 🌟 **Skills**
-
-- 🌐 **Frontend Development**: HTML5, CSS3, JavaScript, React, React Native.
-- 🎨 **Styling & Design**: Tailwind CSS, Bootstrap.
-- 💻 **Programming Languages**: Java, C, C++.
-- 🔧 **Version Control**: Git, GitHub.
-- 🔥 **Strengths**: Problem-solving, adaptability, and always learning new technologies.
-
----
-
-### 🌱 **What I'm Learning**
-
-Currently enhancing my knowledge in backend development with **Node.js**, **Express**, and **MongoDB** to become a complete full-stack developer.
-
----
-
-### 🤝 **Connect with Me**
+## 🌐 Connect With Me
 
 <p align="center">
-  <a href="linkedin.com/in/abhijith-t-g-67a39925b">
+  <a href="https://www.linkedin.com/in/abhijith-t-g-67a39925b">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://twitter.com/yourprofile">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
+
   <a href="https://javascriptboy45d.web.app/">
     <img src="https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=github-pages&logoColor=white" alt="Portfolio">
   </a>
+
+  <a href="https://github.com/Abhijith-TG">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </p>
-
----
-
-### 🏆 **Achievements**
-
-- 🏅 Completed multiple projects with React and Tailwind CSS.
-- ✨ Build android apps using Java and React Native.
-- 🚀 Constantly working on new ideas and improving existing skills.
-
-
-
-### ⚡ **Fun Fact**
-
-Learning to Code is a huge journey where patience and consistency is key to victory
-
