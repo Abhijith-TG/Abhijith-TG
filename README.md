@@ -83,7 +83,7 @@ Worked on multiple full stack web applications using React.js, Next.js, Node.js,
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 
-  <a href="https://javascriptboy45d.web.app/">
+  <a href="https://abhijithtg-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=github-pages&logoColor=white" alt="Portfolio">
   </a>
 
